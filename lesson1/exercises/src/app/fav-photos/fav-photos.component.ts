@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'My Beautiful Images';
+  image1 = 'https://www.researchgate.net/publication/322995804/figure/fig1/AS:591562274791424@1518050845710/Yangzi-cave-Guangxi-China-The-cave-entrance-is-approximately-70-m-wide-15-m-high-and.png';
+  image2 = 'https://www.kastaniacave.gr/wp-content/uploads/2020/07/KastaniaCave-47.jpg';
+  image3 = 'https://www.kastaniacave.gr/wp-content/uploads/2020/07/KastaniaCave-32.jpg';
 
   constructor() { }
 
